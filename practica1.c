@@ -22,3 +22,7 @@ int main() {
 }
 
 /* comentario/*
+
+
+/* hola con/* 
+
