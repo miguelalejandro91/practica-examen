@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    int i, termo = 12, sinal = -1, valor = 11;
+    int i, termo = 10, sinal = -1, valor = 11;
     printf("Serie: ");
     for(i = 1; i <= 20; i++) {
         if(i % 2 != 0) {
@@ -24,5 +24,5 @@ int main() {
 
 
 /* hola con*/ 
- 
+
 
