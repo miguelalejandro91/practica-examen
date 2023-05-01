@@ -21,8 +21,8 @@ int main() {
     return 0;
 }
 
-/* comentario/*
 
 
-/* hola con/* 
+/* hola con*/ 
+ 
 
